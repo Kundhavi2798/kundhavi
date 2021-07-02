@@ -1,4 +1,2 @@
-n=17
-m=27
-sum=n+m
+sum=17+27
 print(sum)
